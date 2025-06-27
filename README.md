@@ -22,7 +22,7 @@ CIFAR-10
 MNIST
 Cats vs Dogs
 
-5)Any custom image dataset structured like:
+ 5)Any custom image dataset structured like:
 bash
 Copy
 Edit
